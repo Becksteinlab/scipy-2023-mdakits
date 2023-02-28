@@ -1,4 +1,4 @@
-# MDAKits: A Framework for Robust and Accessible Molecular Simulation Analysis
+# MDAKits: A Framework for FAIR-Compliant Molecular Simulation Analysis
 
 ## Abstract
 
